@@ -1,0 +1,2 @@
+1. Go inside folder and run npm install. This will install all the required packages
+2. for running server use command "node .\app.js" inside folder
